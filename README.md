@@ -96,8 +96,6 @@ class AbdurRehmanSarwar:
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanSarwar&theme=tokyo-night&hide_border=true&area=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbdurRehmanSarwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
 </div>
 
 <!-- ════════════════════════  SNAKE  ════════════════════════ -->
