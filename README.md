@@ -1,7 +1,9 @@
 <!-- ════════════════════════  HEADER  ════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1C3C3C&height=200&section=header&text=Abdur%20Rehman%20Sarwar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Data%20%26%20AI%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Big%20Data%20%C2%B7%20LLM%20%26%20Agentic%20Systems&descAlignY=58&descSize=18"/>
+# Abdur Rehman Sarwar
+
+### Senior Data &amp; AI Engineer · Cloud · Big Data · LLM &amp; Agentic Systems
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=7%2B+years+building+on+AWS%2C+Azure+%26+GCP;ETL%2FELT+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Kafka+%C2%B7+Spark;RAG%2C+multi-agent+%26+CAG%2FKAG+systems;Turning+raw+data+into+AI+products" alt="Typing SVG"/>
@@ -112,6 +114,6 @@ class AbdurRehmanSarwar:
 </div>
 
 <!-- ════════════════════════  FOOTER  ════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:0A66C2&height=120&section=footer"/>
+---
 
 <div align="center"><i>Reducing data latency · improving pipeline reliability · turning raw data into AI products.</i></div>
