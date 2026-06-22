@@ -16,12 +16,9 @@
   <a href="mailto:abdurrehmansarwar169@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p><b>📍 Lahore, PK</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>🟢 Open to remote roles</b></p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AbdurRehmanSarwar&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Lahore,%20PK-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-2EA043?style=for-the-badge" alt="Open to remote"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdurRehmanSarwar&base=2381&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
