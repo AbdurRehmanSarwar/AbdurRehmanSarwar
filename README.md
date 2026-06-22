@@ -10,7 +10,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/abdurrehman-sarwar-90a853202/">
+  <a href="https://www.linkedin.com/in/abdur-rehman-sarwar-90a853202/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abdurrehmansarwar169@gmail.com">
